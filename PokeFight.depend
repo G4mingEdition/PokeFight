@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1518364641 source:d:\onedrive\personnel\onedrive\cb\pokefight\2.2.0.0\pokefight\gestion.c
+
+1519670653 source:d:\onedrive\personnel\onedrive\cb\pokefight\2.2.0.0\pokefight\main.c
+	"header.h"
+
+1519667484 d:\onedrive\personnel\onedrive\cb\pokefight\2.2.0.0\pokefight\header.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<conioplus.h>
+
+1518366321 source:d:\onedrive\personnel\onedrive\cb\pokefight\2.2.0.0\pokefight\pokemon.c
+	"header.h"
+
+1519669790 source:d:\onedrive\personnel\onedrive\cb\pokefight\2.2.0.0\pokefight\functions.c
+	"header.h"
+
+1519128025 source:c:\users\chris\onedrive\cb\pokefight\2.2.0.0\pokefight\main.c
+	"header.h"
+
+1519110585 c:\users\chris\onedrive\cb\pokefight\2.2.0.0\pokefight\header.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<conioplus.h>
+
+1519109881 source:c:\users\chris\onedrive\cb\pokefight\2.2.0.0\pokefight\functions.c
+	"header.h"
+
+1518658480 source:c:\users\chris\desktop\pokefight\functions.c
+	"header.h"
+	<myconio.h>
+
+1518566777 c:\users\chris\desktop\pokefight\header.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+
+1518659450 source:c:\users\chris\desktop\pokefight\main.c
+	"header.h"
+
+1519669790 source:d:\onedrive\personnel\onedrive\cb\pokefight\functions.c
+	"header.h"
+
+1519667484 d:\onedrive\personnel\onedrive\cb\pokefight\header.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<conioplus.h>
+
+1519670902 source:d:\onedrive\personnel\onedrive\cb\pokefight\main.c
+	"header.h"
+
+1519670835 source:d:\onedrive\personnel\onedrive\cb\pokefight\resources.rc
+
+1520344618 source:c:\users\chris\onedrive\cb\pokefight\functions.c
+	"header.h"
+
+1520344762 c:\users\chris\onedrive\cb\pokefight\header.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<conioplus.h>
+
+1519670835 source:c:\users\chris\onedrive\cb\pokefight\resources.rc
+
+1520344742 source:c:\users\chris\onedrive\cb\pokefight\main.c
+	"header.h"
+
+1520344618 source:d:\google drive\drive\christopher\cb\pokefight\functions.c
+	"header.h"
+
+1520344762 d:\google drive\drive\christopher\cb\pokefight\header.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<conioplus.h>
+
+1519670835 source:d:\google drive\drive\christopher\cb\pokefight\resources.rc
+
+1520344618 source:c:\program files\google drive\drive\christopher\cb\pokefight\functions.c
+	"header.h"
+
+1520344762 c:\program files\google drive\drive\christopher\cb\pokefight\header.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	<conioplus.h>
+
+1519670835 source:c:\program files\google drive\drive\christopher\cb\pokefight\resources.rc
+
+1520925310 source:c:\program files\google drive\drive\christopher\cb\pokefight\main.c
+	"header.h"
+
